@@ -1,0 +1,10 @@
+# PostgreSQL binary distribution (downloaded by init.bat)
+999.0/pgsql/
+999.0/_pg_extract_temp/
+
+# Downloaded archives
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
