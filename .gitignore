@@ -8,3 +8,13 @@
 # Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.exe
+*.dll
+*.so
+*.7z
+*.whl
+*.egg-info/
+.venv/
+py_312/
