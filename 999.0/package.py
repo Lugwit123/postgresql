@@ -9,6 +9,11 @@ build_command = False
 cachable = True
 relocatable = True
 
+# wuwo auto_fetch 载荷完整性（相对本版本目录，仅 is_file）
+_REZ_WUWO_PAYLOAD_RELATIVE_PATHS = [
+    "pgsql/bin/postgres.exe",
+]
+
 
 def commands():
     import platform
